@@ -47,7 +47,7 @@ It supports a variety of keyboard layouts, including those for macOS, and is com
   <summary>3. 👇 Hit Convert and download output</summary>
   <div>
     <img src='/img/Duckify_3_Convert_Download.jpg' alt='Duckify Usage Converting'/>
-    <p>
+    <p color='red'>
     After clicking Convert, the Arduino code appears in the right text area.
     A notification tells you if the conversion was successful or errors occurred.
     You can copy the generated output or download it to open it in Arduino IDE.
